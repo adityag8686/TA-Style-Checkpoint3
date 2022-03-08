@@ -731,3 +731,17 @@ h1{
     width: 30%;
     margin-bottom: 10px;
 }
+.drop{
+    width: 30%;
+    text-align: center;
+    margin-left: 120px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.numbers{
+    width: 32px;
+    height: 32px;
+    color: #888b8f;
+    font-size: 10px;
+}
